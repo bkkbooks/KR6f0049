@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0049/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如來莊嚴智慧光明入一切佛境界經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0357.xml
+    old_id: T12n0357
+hash: sha256:d545dc5687377ff1057755e9f766a98003497c3e2342be29ca276d1dba1fd6fb

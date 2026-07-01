@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6f0049/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0049/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如來莊嚴智慧光明入一切佛境界經
+  identifiers:
+    krp: KR6f0049
+    cbeta: T12n0357
+    cbeta_old_id: T12n0357
+    authorityid: CA0002664
+    json_key: T0357
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0357.xml
+    old_id: T12n0357
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0049_000-T.yaml, hash: 'sha256:d545dc5687377ff1057755e9f766a98003497c3e2342be29ca276d1dba1fd6fb'}
+  - {seq: 1, filename: KR6f0049_001-T.yaml, hash: 'sha256:7dd908b8bb8583a1ae9308518a60c8520ad73e972784282ae068e034e1be636f'}
+  - {seq: 2, filename: KR6f0049_002-T.yaml, hash: 'sha256:e038460d7958d34b2a68576769ae9d6561bd3513f05dfc8a5c6ead26c5d48e8b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0049_000-T.markers.yaml, hash: 'sha256:6c4d828a6e4c42314baf644ad4afbc7a6b58feb2c6073a1eef9f3afae31a0882'}
+  - {seq: 1, role: markers, filename: assets/KR6f0049_001-T.markers.yaml, hash: 'sha256:4fee4b16c5aea0dfc4d5c8cb91591284c450633a2f2f7ee999a026f17dcb33af'}
+  - {seq: 2, role: markers, filename: assets/KR6f0049_002-T.markers.yaml, hash: 'sha256:0dc5de0997f2f005dce0210ccfcaa3f5b2d84c122e69ce4d5dded6a7c0fc5a06'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0049_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7283
+  label: '如來莊嚴智慧光明入一切佛境
+
+    界經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0049_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8103
+  label: '如來莊嚴智慧光明入一切佛境
+
+    界經卷下'
+  type: juan
+  level: 1
+hash: sha256:419bf3eb972fff6e82d6f91453389b15438710de36bad4b4c1957839ad4c94e7
